@@ -5,9 +5,6 @@ iOS-developer
 -------------
 
 I’m a beginner iOS developer. My path into IT started with the Yandex.Practicum courses. In mobile development for iOS I like the ability to create beautiful and convenient interfaces according to the Human Interface Guidelines, as well as programming the logic of their work. The language Swift attracts me the opportunity to develop applications for different devices (iOS, watchOS, tvOS, macOS) and simplicity of testing and optimization (compared with Android-development).
-
-[- 📱 You can contact me in Telegram: [@filipchuk](https://t.me/filipchuk "Telegram channel")]: #
-
 - 🧠  I'm learning SwiftUI
 - 🤝  I'm open to collaborating on interesting projects
 
